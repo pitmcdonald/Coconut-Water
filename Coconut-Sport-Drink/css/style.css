@@ -1,0 +1,86 @@
+ .jumbotron {
+     background-image: url('img/background.jpg');
+     background-size: cover;
+     background-position: center;
+     background-attachment: fixed;
+     min-height: 100vh;
+     color: white;
+ }
+ 
+ section {
+     padding-top: 4rem;
+ }
+ 
+ .navbar {
+     color: black;
+     -webkit-box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.3);
+     -moz-box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.3);
+     box-shadow: 0px 0px 15px 2px rgba(0, 0, 0, 0.3);
+     z-index: 999;
+ }
+ 
+ .btn-lg {
+     width: 200px;
+     padding: 5px;
+     color: black;
+     border-width: 1px;
+     font-weight: bold;
+ }
+ 
+ .btn-lg:hover {
+     background-color: #1c1c1c;
+     color: white;
+ }
+ 
+ .nav-link {
+     color: black;
+ }
+ 
+ .nav-link:hover {
+     background-color: #1c1c1c;
+     color: white;
+ }
+ 
+ .lead:hover {
+     text-decoration: underline;
+ }
+ 
+ .card {
+     margin-top: 10px;
+ }
+ 
+ li:active {
+     background-color: black;
+ }
+ 
+ .h1-coconut {
+     margin-top: 25px;
+ }
+ 
+ .pricebutton {
+     margin-top: 10px;
+ }
+ 
+ .btn-block {
+     padding: 5px;
+     color: black;
+     border-width: 1px;
+     font-weight: bold;
+ }
+ 
+ .btn-block:hover {
+     background-color: #1c1c1c;
+     color: white;
+ }
+ 
+ img:hover {
+     background-color: black;
+ }
+ 
+ .drink-description {
+     padding-top: 50px;
+ }
+ 
+ .product-description {
+     padding-top: 20px;
+ }
